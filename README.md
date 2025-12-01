@@ -23,7 +23,6 @@ Friction fitted (with clearance designed for 3d printing)
 - 9x MX style switches (5 pin preferred)
 - 9x Through-hole 1N4148 diodes
 - 1x SSD1306 128x32 OLED 0.91"
-- 4x SK6812-MINI-E LED
 - 9x Blank DSA Keycaps
 - 1x 1x4 2.54mm female header (for boosting height for the display
 - 1x ec11 rotary encoder
