@@ -1,5 +1,5 @@
-# Macropad
-macropad
+# Cubitpad
+Cubitpad 
 # Cad
 <img width="1667" height="1214" alt="image" src="https://github.com/user-attachments/assets/36a53e9b-23d4-420f-b2f6-a9299adbe44c" />
 
