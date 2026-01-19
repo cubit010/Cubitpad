@@ -4,10 +4,12 @@ macropad
 <img width="1667" height="1214" alt="image" src="https://github.com/user-attachments/assets/36a53e9b-23d4-420f-b2f6-a9299adbe44c" />
 
 # PCB
-<img width="1360" height="1471" alt="image" src="https://github.com/user-attachments/assets/1f7d7457-aba3-417e-a21f-c0a896c6a2b3" />
+<img width="1197" height="1473" alt="image" src="https://github.com/user-attachments/assets/e0f6fa52-33c0-49af-826a-1d3b61d8c1c1" />
+
 
 # Schematic
-<img width="1533" height="1072" alt="image" src="https://github.com/user-attachments/assets/20ad94a6-7b15-478e-8af6-4a2431a58e23" />
+<img width="1902" height="1443" alt="image" src="https://github.com/user-attachments/assets/f63fb52b-086d-4017-8256-01fb7f721c10" />
+
 
 # Case by itself
 <img width="1847" height="1191" alt="image" src="https://github.com/user-attachments/assets/00c511c3-85a2-42e7-90db-dee0aa2d07d7" />
