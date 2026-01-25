@@ -1,5 +1,8 @@
 # Cubitpad
-Cubitpad 
+The Cubitpad is a macropad that is designed to maximize functionality in the smallest footprint. It utilizes all pins to their maximum extent on the Seeeduino XIAO RP2040 for the most features, which includes: NKRO 3x3 macro, rotary encoder with push function, and a 0.91" OLED monochrome screen, the keypad also being backlit with neopixels for some flair
+# Image
+![S__15409169](https://github.com/user-attachments/assets/1cecbb9d-efbc-4caf-a650-c4ef3b9b1b36)
+
 # Cad
 <img width="1667" height="1214" alt="image" src="https://github.com/user-attachments/assets/36a53e9b-23d4-420f-b2f6-a9299adbe44c" />
 
