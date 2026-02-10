@@ -43,8 +43,9 @@ Friction fitted (with clearance designed for 3d printing)
 - 9x Through-hole 1N4148 diodes
 - 1x SSD1306 128x32 OLED 0.91"
 - 9x Blank DSA Keycaps
-- 1x 1x4 2.54mm female header (for boosting height for the display
+- 1x 1x4 2.54mm female header (for boosting height for the display)
 - 1x ec11 rotary encoder
+- 1x 10kΩ metal film resistor (newly added for voltage divider)
 - 1x 47kΩ metal film resistor
 - 1x 100kΩ metal film resistor
 - 9x kalih MX hot swap sockets
