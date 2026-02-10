@@ -30,7 +30,13 @@ Friction fitted (with clearance designed for 3d printing)
 (I can print this myself, but some filament could be nice)
 
 # Firmware
-- KMK based and currently don't have specified macros yet, screen is yet to be determined for use but probably used for volume bar animations at least 
+- KMK based,
+- Screen used for identifying layers, icon display, and signature display
+- Neopixel used for backlight
+- Custom rotary encoder decoding software from one analog pin
+- Custom Key object designed for the rotary encoder multi function button
+- Advanced use of macros and hotkeys for daily use
+
 # BOM
 - 1x SEEEDUINO XIAO RP2040
 - 9x MX style switches (5 pin preferred)
