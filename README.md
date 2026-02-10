@@ -1,5 +1,13 @@
 # Cubitpad
 The Cubitpad is a macropad that is designed to maximize functionality in the smallest footprint. It utilizes all pins to their maximum extent on the Seeeduino XIAO RP2040 for the most features, which includes: NKRO 3x3 macro, rotary encoder with push function, and a 0.91" OLED monochrome screen, the keypad also being backlit with neopixels for some flair
+
+### Usage
+To use, one should flash their xiao rp2040 with the correct circuitpython .uf2 file, upload the code file, as well as libraries and linked images, save, and you're good to go!
+you can customize what each key does, lighting color, text displays, etc all within the code.py file
+
+### Creation
+This was initially created as my own current keyboard lacks a rotary encoder, and I wanted one for volume and other controls, which then spiraled into this project
+
 # Image
 ![S__15409169](https://github.com/user-attachments/assets/1cecbb9d-efbc-4caf-a650-c4ef3b9b1b36)
 
