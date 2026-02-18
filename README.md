@@ -38,14 +38,17 @@ Friction fitted (with clearance designed for 3d printing)
 - Advanced use of macros and hotkeys for daily use
 
 # BOM
-- 1x SEEEDUINO XIAO RP2040
-- 9x MX style switches (5 pin preferred)
-- 9x Through-hole 1N4148 diodes
-- 1x SSD1306 128x32 OLED 0.91"
-- 9x Blank DSA Keycaps
-- 1x 1x4 2.54mm female header (for boosting height for the display)
-- 1x ec11 rotary encoder
-- 1x 10kΩ metal film resistor (newly added for voltage divider)
-- 1x 47kΩ metal film resistor
-- 1x 100kΩ metal film resistor
-- 9x kalih MX hot swap sockets
+| Qty | Item                                   | Notes                                   |
+|-----|----------------------------------------|------------------------------------------|
+| 1   | SEEEDUINO XIAO RP2040                  | Microcontroller board                   |
+| 9   | MX-style switches                      |                                         |
+| 9   | 1N4148 through-hole diodes             | For switch matrix                       |
+| 1   | SSD1306 128x32 OLED 0.91"              | I2C display                             |
+| 9   | Blank DSA keycaps                      |                                          |
+| 1   | 1x4 2.54mm female header               | For raising display height              |
+| 1   | EC11 rotary encoder                    |                                          |
+| 1   | 10kΩ metal film resistor               | Part of voltage divider                 |
+| 1   | 47kΩ metal film resistor               | Voltage divider                         |
+| 1   | 100kΩ metal film resistor              | Voltage divider                         |
+| 9   | Kailh MX hot-swap sockets              | For hot-swappable switches              |
+
